@@ -1,5 +1,5 @@
 import unittest
-from . import flipping_matrix
+from flipping_matrix import flipping_matrix
 
 
 class MyTestCase(unittest.TestCase):
