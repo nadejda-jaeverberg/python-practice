@@ -1,5 +1,5 @@
 import unittest
-from . import roman_to_integer
+from roman_numerals import roman_to_integer
 
 
 class MyTestCase(unittest.TestCase):

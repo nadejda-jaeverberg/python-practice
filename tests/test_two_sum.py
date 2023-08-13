@@ -1,5 +1,5 @@
 import unittest
-from . import two_sum
+from add_two_numbers import two_sum
 
 
 class MyTestCase(unittest.TestCase):
